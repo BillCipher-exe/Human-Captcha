@@ -59,3 +59,6 @@ Beware, mortal! Only those with sharp eyes can escape the AI’s trap! 🔮
     ├── Real/               # Folder for real images (free of copyright)🎃
     ├── main.py             # Main Python script 🧛‍♂️
     └── README.md           # This spooky README 👻
+
+⚖️ License
+This project does not contain any copyrighted material and is free for everyone to use
