@@ -28,7 +28,7 @@ Install the necessary potions (dependencies):
 
     pip install Pillow
 
-add your own spooky images:
+(optional) add your own spooky images:
 
         🧠 AI/: Holds AI-generated images.
         🎃 Real/: Holds real, non-AI images.
