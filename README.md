@@ -28,11 +28,11 @@ Install the necessary potions (dependencies):
 
     pip install Pillow
 
-Prepare your spooky images:
-        Create two directories in the project folder:
-            🧠 AI/: Holds AI-generated images.
-            🎃 Real/: Holds real, non-AI images.
-        Place at least 5 images in each folder.
+add your own spooky images:
+
+        🧠 AI/: Holds AI-generated images.
+        🎃 Real/: Holds real, non-AI images.
+            Place at least 5 images in each folder.
 
 🕹️ Usage
 
