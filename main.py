@@ -9,8 +9,8 @@ NUM_PAIRS = 6
 MIN_CORRECT = 3
 WINDOW_WIDTH = 1300
 WINDOW_HEIGHT = 1000
-IMAGE_WIDTH = 520
-IMAGE_HEIGHT = 780
+IMAGE_WIDTH = 572
+IMAGE_HEIGHT = 858
 BACKGROUND_COLOR = "#2e2e2e"  # Dark gray background
 TEXT_COLOR = "#ffffff"  # White text for better contrast
 
