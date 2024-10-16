@@ -61,6 +61,6 @@ Beware, mortal! Only those with sharp eyes can escape the AI’s trap! 🔮
     Human-Captcha/
     │
     ├── AI/                 # Folder for AI-generated images 🧠
-    ├── Real/               # Folder for real images 🎃
+    ├── Real/               # Folder for real images (free of copyright)🎃
     ├── main.py             # Main Python script 🧛‍♂️
     └── README.md           # This spooky README 👻
