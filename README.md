@@ -6,14 +6,6 @@ Welcome to the  CAPTCHA test! you'll face off against AI-generated images. Can y
 
 >The CAPTCHA test is designed to leverage the unique strengths of human perception. The underlying principle is that humans are better at recognizing subtle errors in artificial creations compared to machines. The task is to identify the real image, which tests not only the user's observational skills but also their ability to detect the often nuanced discrepancies that AI may overlook. By analyzing how effectively humans can distinguish between real and artificially generated content, this CAPTCHA aims to create a more reliable method for verifying human users in a digital environment.
 
-🎃 Features
-
-    🧟 5 pairs of images: One real, one AI-generated.
-    🔀 Randomized selection of images with no repeats.
-    🎨 Dark, spooky-themed UI for Halloween.
-    🌑 Dark Mode with a dark gray background and eerie white text.
-    🧠 Detects whether you're a human based on your accuracy!
-
 🛠️ Requirements
 
     🐍 Python 3.x
