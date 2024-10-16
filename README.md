@@ -2,6 +2,10 @@
 
 Welcome to the spooky CAPTCHA test! In this Halloween-themed challenge, you'll face off against AI-generated images. Can you tell which picture is real and which is the work of an AI sorcerer? Test your human senses and see if you're a human or... a robot! 🤖
 
+🧠The Ideaa behind this Captcha
+
+>The CAPTCHA test is designed to leverage the unique strengths of human perception. The underlying principle is that humans are better at recognizing subtle errors in artificial creations compared to machines. The task is to identify the real image, which tests not only the user's observational skills but also their ability to detect the often nuanced discrepancies that AI may overlook. By analyzing how effectively humans can distinguish between real and artificially generated content, this CAPTCHA aims to create a more reliable method for verifying human users in a digital environment.
+
 🎃 Features
 
     🧟 5 pairs of images: One real, one AI-generated.
