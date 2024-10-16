@@ -5,7 +5,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 
 # Configuration constants
-NUM_PAIRS = 5
+NUM_PAIRS = 6
 MIN_CORRECT = 3
 WINDOW_WIDTH = 1300
 WINDOW_HEIGHT = 1000
