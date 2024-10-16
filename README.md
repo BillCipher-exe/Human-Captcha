@@ -1,4 +1,4 @@
-🎃 CAPTCHA Test: Real vs AI Generated Images 👻
+# CAPTCHA Test: Real vs AI Generated Images
 
 Welcome to the spooky CAPTCHA test! In this Halloween-themed challenge, you'll face off against AI-generated images. Can you tell which picture is real and which is the work of an AI sorcerer? Test your human senses and see if you're a human or... a robot! 🤖
 
