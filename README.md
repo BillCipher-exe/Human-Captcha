@@ -61,4 +61,5 @@ Beware, mortal! Only those with sharp eyes can escape the AI’s trap! 🔮
     └── README.md           # This spooky README 👻
 
 ⚖️ License
-This project does not contain any copyrighted material and is free for everyone to use
+
+    This project does not contain any copyrighted material and is free for everyone to use
