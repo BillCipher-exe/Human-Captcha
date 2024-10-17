@@ -1,6 +1,6 @@
-# CAPTCHA Test: Real vs AI Generated Images
+# Human CAPTCHA Test: Real vs AI Generated Images
 
-Welcome to the  CAPTCHA test! you'll face off against AI-generated images. Can you tell which picture is real and which is the work of an AI sorcerer? Test your human senses and see if you're a human or... a robot! 🤖
+Welcome to the Human CAPTCHA test! you'll face off against AI-generated images. Can you tell which picture is real and which is the work of an AI sorcerer? Test your human senses and see if you're a human or... a robot! 🤖
 
 🧠The Ideaa behind this Captcha
 
